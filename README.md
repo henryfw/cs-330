@@ -1,6 +1,4 @@
-# cs-330
-
-## Multi-Task Learning on X-Ray Images
+# Multi-Task Learning on X-Ray Images
 
 #### Data
 
